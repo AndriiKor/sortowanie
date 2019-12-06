@@ -1,3 +1,3 @@
 FROM ubuntu
 
-RUN apt-get update && apt-get install andriikor/sortowanie
+RUN apt-get update && apt-get install quicksort.c
